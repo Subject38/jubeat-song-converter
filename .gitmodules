@@ -1,0 +1,3 @@
+[submodule "gitadora-customs"]
+	path = gitadora-customs
+	url = https://github.com/fisyher/gitadora-customs
